@@ -61,6 +61,9 @@ Title | Author | ISBN | Type | Comment
 [Machine Learning in Production: From Models to Products](https://mlip-cmu.github.io/book/) | Christian Kastner | 978-0262382953 | Recommended | Free online; for special topics on ML systems
 [AI Engineering: Building Applications with Foundation Models](https://books.google.com/books?id=98Ix0QEACAAJ) | Chip Huyen | 978-1098166304 | Recommended | For special topics on foundation models and agents
 
+The bookstore lists the assigned material per section: [CSCI 40500][textbooks] and
+[CSCI 77100][textbooks-77100]. Both sections are assigned the same required text.
+
 ## Student Expectations
 
 For this course, you must:
@@ -195,8 +198,9 @@ Hunter College is committed to maintaining a fair and equal environment for both
 
 Portions of this syllabus are based on the syllabus used for the [CEN 5035 Software Engineering Fall 2016 course](http://www.cise.ufl.edu/class/cen5035/fa16.html) of the Department of Computer Science &amp; Engineering, the University of Florida by Steve Thebaut, as well as syllabi from Atanas Rountev.
 
-[textbooks]: https://hunter.textbookx.com/institutional/index.php?action=browse#books/4896985/
-[GitHub]: https://github.com/CSCI-40500-Fall-2026/Syllabus/commits/master
+[textbooks]: https://hunter.textbookx.com/institutional/index.php?action=browse#books/5457552/
+[textbooks-77100]: https://hunter.textbookx.com/institutional/index.php?action=browse#books/5602169/
+[GitHub]: https://github.com/CSCI-40500-77100-Fall-2026/Syllabus/commits/master
 [loan]: https://cunyhunter.co1.qualtrics.com/jfe/form/SV_9viuDlTexA9rV2d
 [Raffi Khatchadourian]: http://cs.hunter.cuny.edu/~khatchad
 [CSCI 33500: Software Analysis and Design III]: https://hunter-undergraduate.catalog.cuny.edu/courses/0245511
