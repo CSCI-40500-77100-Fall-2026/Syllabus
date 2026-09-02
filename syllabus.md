@@ -59,7 +59,7 @@ Title | Author | ISBN | Type | Comment
 [Design Patterns: Elements of Reusable Object-Oriented Software](https://books.google.com/books?id=6oHuKQe3TjQC) | Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides | 978-0321700698 | Optional | "GoF" book
 [Software Engineering at Google](https://abseil.io/resources/swe-book) | Titus Winters, Tom Manshreck, Hyrum Wright | 978-1492082798 | Recommended | Free online; static analysis, testing, and CI/CD
 [Machine Learning in Production: From Models to Products](https://mlip-cmu.github.io/book/) | Christian Kastner | 978-0262382953 | Recommended | Free online; for special topics on ML systems
-[AI Engineering: Building Applications with Foundation Models](https://books.google.com/books?id=98Ix0QEACAAJ) | Chip Huyen | 978-1098166304 | Recommended | For special topics on foundation models and agents
+[AI Engineering: Building Applications with Foundation Models](https://books.google.com/books?id=S7M1EQAAQBAJ) | Chip Huyen | 978-1098166304 | Recommended | For special topics on foundation models and agents
 
 The bookstore lists the assigned material per section: [CSCI 40500][textbooks] and
 [CSCI 77100][textbooks-77100]. Both sections are assigned the same required text.
