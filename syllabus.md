@@ -120,12 +120,12 @@ Homework will be assigned after each chapter read. It may include questions at t
 Students will work together in assigned groups on a semester-long project. The project must incorporate the lessons learned from the week's topic. Thus, the project will be done incrementally throughout the semester. However, the project will require the following *each and every week*:
 
 1. A working prototype of the project. This can be as simple as a project skeleton. Be prepared to "throw away" the prototype each week for the first few weeks as your knowledge of the course progresses.
-1. Code hosted in the course GitHub organization.
+1. Code hosted in a Git repository on GitHub.
 1. Working tests invoked via continuous integration (CI).
 
 The final deliverable must be a **substantial, student-authored codebase** that demonstrates the practices taught in this course, e.g., design, testing, refactoring, and version control. You are welcome to use frameworks, libraries, scaffolding, and backend-as-a-service platforms, as professional engineers do. What does not satisfy the requirement is an application authored *for* you, whether by a no-code or visual app builder or by a generative tool whose output you cannot account for. You are expected to be able to **explain and defend** any code you submit, including why it is written the way it is.
 
-The instructor will provide each group with a repository in the course GitHub organization. Work only in the repository assigned to your group; committing your work elsewhere may result in it not being graded. Please inform the instructor if your group requires any computing resources from the Computer Science department to complete your project.
+Each group's work must live in a **single Git repository** in the course GitHub organization, and the full commit history is part of what is assessed. The tooling that creates those repositories and collects them for grading is **being finalized**; the instructor will announce the specific mechanics early in the term. Until then, do not set up your project elsewhere. Please inform the instructor if your group requires any computing resources from the Computer Science department to complete your project.
 
 ### Presentation
 
