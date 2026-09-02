@@ -117,7 +117,7 @@ Homework will be assigned after each chapter read. It may include questions at t
 
 ### Project
 
-Students will work together in assigned groups on a semester-long project. The project must incorporate the lessons learned from the week's topic. Thus, the project will be done incrementally throughout the semester. However, the project will require the following *each and every week*:
+Students will work together in groups on a semester-long project. The project must incorporate the lessons learned from the week's topic. Thus, the project will be done incrementally throughout the semester. However, the project will require the following *each and every week*:
 
 1. A working prototype of the project. This can be as simple as a project skeleton. Be prepared to "throw away" the prototype each week for the first few weeks as your knowledge of the course progresses.
 1. Code hosted in a Git repository on GitHub.
