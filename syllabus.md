@@ -25,15 +25,15 @@ Software Engineering (SE) is concerned with all facets of software development, 
 Topic | Book | Reading Chapter(s)/Page(s)
 --- | --- | ---
 Software Products | Sommerville | 1
-Object-Oriented Programming Refresher | | Instructor material
 Agile Software Engineering | Sommerville | 2
 Features, Scenarios, and Stories | Sommerville | 3
 Software Architecture (modeling with diagrams-as-code) | Sommerville | 4
 Cloud-Based Software | Sommerville | 5
 Microservices Architecture | Sommerville | 6
 Security and Privacy | Sommerville | 7
-Design Patterns | GoF | pp. 293--305
 Reliable Programming | Sommerville | 8
+Object-Oriented Programming Refresher | | Instructor material
+Design Patterns | GoF | pp. 293--305
 Testing | Sommerville | 9
 Static Analysis (applied lab) | Google | 20
 DevOps and Code Management | Sommerville | 10
