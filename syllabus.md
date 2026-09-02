@@ -38,8 +38,8 @@ Testing | Sommerville | 9
 Static Analysis (applied lab) | Google | 20
 DevOps and Code Management | Sommerville | 10
 Machine Learning in a Nutshell for Software Engineers | Kastner | 1--3
-Quality Assurance for ML-Enabled Systems | Kastner | TBD
-Foundation Models and AI Agents | Huyen | TBD
+Quality Assurance for ML-Enabled Systems | Kastner | 14, 23
+Foundation Models and AI Agents | Huyen | 1--2, 6
 
 Architectural and design models in this course are expressed as *diagrams-as-code* (e.g., [Mermaid] and the [C4 model]) checked into your project repository, rather than as standalone UML documents.
 
