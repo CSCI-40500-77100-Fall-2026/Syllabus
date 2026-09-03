@@ -107,13 +107,9 @@ The instructor will post lecture slides for each chapter.
 
 The instructor will post a corresponding reading assignment for each chapter.
 
-### Lab
-
-Students work together with their lab partners on a semester-long project.
-
 ### Homework
 
-Homework will be assigned after each chapter read. It may include questions at the end of the chapter or short coding assignments depending on the material. Each will be assigned in Brightspace along with submission instructions. This course is designed to be **self-contained**. Thus, **the only resources students need to answer the questions are contained within the course**. Searching the web (e.g., Google) for answers is not only *unnecessary* but also risks [academic violations](#academic-violations), which can result in course failure.
+Homework will be assigned after each chapter read. It may include questions at the end of the chapter or short coding assignments depending on the material. Each will be assigned in Brightspace along with submission instructions. This course is designed to be **self-contained**. Thus, **the only resources students need to answer the questions are contained within the course**. Searching the web (e.g., Google) for homework answers is not only *unnecessary* but also risks [academic violations](#academic-violations), which can result in course failure. This restriction covers homework only. The term project is different: students are expected to use external frameworks, libraries, and documentation there, as described under [Project](#project).
 
 ### Project
 
@@ -155,7 +151,7 @@ A central focus of this course is to simulate the professional work environment 
 
 ## Academic Violations
 
-The classroom environment employed will be that of a professional one. While students may discuss course materials and assignments with others at a high level, any submitted work must result from *individual* effort *only*. Students are *strongly* advised to read the [resources regarding academic integrity](https://hunter.cuny.edu/students/student-affairs/office-of-student-conduct/academic-integrity) provided by Hunter College.
+The classroom environment employed will be that of a professional one. While students may discuss course materials and assignments with others at a high level, any submitted work must result from *individual* effort *only*, except where the work is assigned as group work, such as the term project. Students are *strongly* advised to read the [resources regarding academic integrity](https://hunter.cuny.edu/students/student-affairs/office-of-student-conduct/academic-integrity) provided by Hunter College.
 
 ## Email
 
