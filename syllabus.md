@@ -41,7 +41,7 @@ Machine Learning in a Nutshell for Software Engineers | Kastner | 1--3
 Quality Assurance for ML-Enabled Systems | Kastner | 14, 23
 Foundation Models and AI Agents | Huyen | 1--2, 6
 
-Architectural and design models in this course are expressed as *diagrams-as-code* (e.g., [Mermaid] and the [C4 model]) checked into your project repository, rather than as standalone UML documents.
+Architectural and design models in this course are expressed as *diagrams-as-code* (e.g., [Mermaid] and the [C4 model]) checked into the project repository, rather than as standalone UML documents.
 
 Students are required to read the linked articles if no chapter is specified above. The instructor will distribute any supplementary material. Chapters and pages refer to the required text unless otherwise specified.
 
@@ -66,11 +66,11 @@ The bookstore lists the assigned material per section: [CSCI 40500][textbooks] a
 
 ## Student Expectations
 
-For this course, you must:
+For this course, students must:
 
 - Do the chapter readings and cover the lecture slides.
 - Do the homework assignments.
-- Work well with your classmates and team.
+- Work well with their classmates and team.
 - Complete a term project.
 
 ## Grading
@@ -113,19 +113,19 @@ Students work together with their lab partners on a semester-long project.
 
 ### Homework
 
-Homework will be assigned after each chapter read. It may include questions at the end of the chapter or short coding assignments depending on the material. Each will be assigned in Brightspace along with submission instructions. I have designed this course to be **self-contained**. Thus, **the only resources you need to answer the questions are contained within the course**. Searching the web (e.g., Google) for answers is not only *unnecessary* but also risks [academic violations](#academic-violations), which can result in course failure.
+Homework will be assigned after each chapter read. It may include questions at the end of the chapter or short coding assignments depending on the material. Each will be assigned in Brightspace along with submission instructions. This course is designed to be **self-contained**. Thus, **the only resources students need to answer the questions are contained within the course**. Searching the web (e.g., Google) for answers is not only *unnecessary* but also risks [academic violations](#academic-violations), which can result in course failure.
 
 ### Project
 
 Students will work together in groups on a semester-long project. The project must incorporate the lessons learned from the week's topic. Thus, the project will be done incrementally throughout the semester. However, the project will require the following *each and every week*:
 
-1. A working prototype of the project. This can be as simple as a project skeleton. Be prepared to "throw away" the prototype each week for the first few weeks as your knowledge of the course progresses.
+1. A working prototype of the project. This can be as simple as a project skeleton. Groups should be prepared to "throw away" the prototype each week for the first few weeks as their knowledge of the course progresses.
 1. Code hosted in a Git repository on GitHub.
 1. Working tests invoked via continuous integration (CI).
 
-The final deliverable must be a **substantial, student-authored codebase** that demonstrates the practices taught in this course, e.g., design, testing, refactoring, and version control. You are welcome to use frameworks, libraries, scaffolding, and backend-as-a-service platforms, as professional engineers do. What does not satisfy the requirement is an application authored *for* you, whether by a no-code or visual app builder or by a generative tool whose output you cannot account for. You are expected to be able to **explain and defend** any code you submit, including why it is written the way it is.
+The final deliverable must be a **substantial, student-authored codebase** that demonstrates the practices taught in this course, e.g., design, testing, refactoring, and version control. Students may use frameworks, libraries, scaffolding, and backend-as-a-service platforms, as professional engineers do. What does not satisfy the requirement is an application authored *for* the student, whether by a no-code or visual app builder or by a generative tool whose output the student cannot account for. Students are expected to be able to **explain and defend** any code they submit, including why it is written the way it is.
 
-Each group's work must live in a **single Git repository** in the course GitHub organization, and the full commit history is part of what is assessed. The tooling that creates those repositories and collects them for grading is **being finalized**; the instructor will announce the specific mechanics early in the term. Until then, do not set up your project elsewhere. Please inform the instructor if your group requires any computing resources from the Computer Science department to complete your project.
+Each group's work must live in a **single Git repository** in the course GitHub organization, and the full commit history is part of what is assessed. The tooling that creates those repositories and collects them for grading is **being finalized**; the instructor will announce the specific mechanics early in the term. Until then, groups should not set up their project elsewhere. Groups should inform the instructor if they require any computing resources from the Computer Science department to complete the project.
 
 ### Presentation
 
@@ -147,7 +147,7 @@ Test make-ups will be given if and only if:
 
 ## Attendance
 
-Attendance is expected for *each and every class* meeting. The instructor will start the class on time, and students are expected to be present on time. If students are late or miss class, it is the student's responsibility to makeup any missed material. How students do that is up to them, but I suggest asking another student in the class. Please do not ask or email the instructor about information on any missed material due to missing or being late to class. Please come on time.
+Attendance is expected for *each and every class* meeting. The instructor will start the class on time, and students are expected to be present on time. If students are late or miss class, it is the student's responsibility to makeup any missed material. How students do that is up to them, but asking a classmate is advised. Students should not ask or email the instructor about material missed by arriving late or not attending. Students should come on time.
 
 ## Professional Presence &amp; Communication
 
@@ -161,12 +161,12 @@ The classroom environment employed will be that of a professional one. While stu
 
 - Emails to the instructor must be via CUNY email addresses for FERPA reasons.
 - Include the *class name* or *number* in the *subject* line of the email.
-- Email thread *hijacking* is strongly discouraged. Ensure that the subject of your email matches its contents.
-- Ensure that your *correct CUNY* email address is entered into the CUNY Brightspace.
+- Email thread *hijacking* is strongly discouraged. The subject of an email must match its contents.
+- Students must ensure that their *correct CUNY* email address is entered into the CUNY Brightspace.
 
 ## Bulletin Board
 
-You should check the [Brightspace](http://brightspace.cuny.edu) site regularly since all class material will be posted there. Please make sure you have configured Brightspace to use your *CUNY email address*. You are responsible for any email the instructors might send there.
+Students should check the [Brightspace](http://brightspace.cuny.edu) site regularly since all class material will be posted there. Students must configure Brightspace to use their *CUNY email address* and are responsible for any email the instructors might send there.
 
 ## Laptop Loans, Computer Science Facilities, &amp; Labs
 
@@ -176,11 +176,11 @@ You should check the [Brightspace](http://brightspace.cuny.edu) site regularly s
 
 ## Counseling &amp; Wellness Services
 
-Counseling &amp; Wellness Services (CWS) provides mental health counseling, health promotion, and education programs aimed at enhancing your quality of life and maximizing your personal and academic growth and development. Students may find more information on the [Counseling &amp; Wellness Services website](https://hunter.cuny.edu/students/health-wellness/counseling-and-wellness-services).
+Counseling &amp; Wellness Services (CWS) provides mental health counseling, health promotion, and education programs aimed at enhancing students' quality of life and maximizing their personal and academic growth and development. Students may find more information on the [Counseling &amp; Wellness Services website](https://hunter.cuny.edu/students/health-wellness/counseling-and-wellness-services).
 
 ## Special Needs
 
-Students with special needs should see me for accommodation *at least* two weeks prior to the due date of any assignment or exam.
+Students with special needs should see the instructor for accommodation *at least* two weeks prior to the due date of any assignment or exam.
 
 ## ADA Compliance
 
