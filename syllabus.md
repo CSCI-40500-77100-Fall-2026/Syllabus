@@ -121,7 +121,7 @@ Students will work together in groups on a semester-long project. The project mu
 
 The final deliverable must be a **substantial, student-authored codebase** that demonstrates the practices taught in this course, e.g., design, testing, refactoring, and version control. Students may use frameworks, libraries, scaffolding, and backend-as-a-service platforms, as professional engineers do. What does not satisfy the requirement is an application authored *for* the student, whether by a no-code or visual app builder or by a generative tool whose output the student cannot account for. Students are expected to be able to **explain and defend** any code they submit, including why it is written the way it is.
 
-Each group's work must live in a **single Git repository** in the course GitHub organization, and the full commit history is part of what is assessed. The tooling that creates those repositories and collects them for grading is **being finalized**; the instructor will announce the specific mechanics early in the term. Until then, groups should not set up their project elsewhere. Groups should inform the instructor if they require any computing resources from the Computer Science department to complete the project.
+Each group's work must live in a **single Git repository** in the course GitHub organization, and the full commit history is part of what is assessed. Those repositories are provisioned through [Classroom 50], a free and open-source alternative to GitHub Classroom. Each student therefore needs a GitHub account and must accept the invitation to the course organization sent to their CUNY email address; students who do not yet have an account should create one. The instructor will distribute the link that creates each group's repository. Repositories are **private** to the group and the instructor; at the end of the semester, students may ask to have theirs made public. Because the commit history is assessed, groups must develop in that repository throughout the semester rather than work elsewhere and upload the result at the end. Groups should inform the instructor if they require any computing resources from the Computer Science department to complete the project.
 
 ### Presentation
 
@@ -203,3 +203,4 @@ Portions of this syllabus are based on the syllabus used for the [CEN 5035 Softw
 [ferpa]: https://hunter.cuny.edu/students/registration/records-and-transcripts/ferpa
 [Mermaid]: https://mermaid.js.org
 [C4 model]: https://c4model.com
+[Classroom 50]: https://github.com/foundation50/classroom50
