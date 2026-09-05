@@ -49,7 +49,7 @@ Students are required to read the linked articles if no chapter is specified abo
 
 - [CSCI 33500: Software Analysis and Design III] or equivalent.
 
-Students must be familiar with a modern Object-Oriented programming language such as Java or Python and must be familiar with common computing terminology. The examples in the book are in Python but should be understandable by anyone with programming experience.
+Students must be familiar with a modern Object-Oriented programming language such as Java or Python and must be familiar with common computing terminology. The examples in the book are in Python but should be understandable by anyone with programming experience. Students who have not used Git and GitHub recently should work through [GitHub's introductory material](https://docs.github.com/en/get-started/start-your-journey) before the project begins.
 
 ## [Textbooks]
 
