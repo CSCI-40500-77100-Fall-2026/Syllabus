@@ -113,7 +113,7 @@ Homework will be assigned after each chapter read. It may include questions at t
 
 ### Project
 
-Students will work together in groups on a semester-long project. The project must incorporate the lessons learned from the week's topic. Thus, the project will be done incrementally throughout the semester. However, the project will require the following *each and every week*:
+Students will work together in groups on a semester-long project. The project must incorporate the lessons learned from the week's topic. Thus, the project will be done incrementally throughout the semester. A group's product vision is expected to change as the project develops; revising it in light of what the group learns is normal agile practice rather than a failure of planning. However, the project will require the following *each and every week*:
 
 1. A working prototype of the project. This can be as simple as a project skeleton. Groups should be prepared to "throw away" the prototype each week for the first few weeks as their knowledge of the course progresses.
 1. Code hosted in a Git repository on GitHub.
@@ -131,6 +131,7 @@ A select number of groups may be asked to present their final projects towards t
 
 - **Deadlines** and **due dates** for assignments will be assigned in class.
 - **Late assignments will be penalized.**
+- Deliverables must follow their stated **submission instructions**. A substantial part of the grade depends on following them, and work that is not submitted where the instructions require it, e.g., in Brightspace, may receive no credit.
 - No extensions will be given for extra credit assignments.
 - Assignments are the result of **individual effort** unless otherwise noted (e.g., group projects).
 
