@@ -163,10 +163,11 @@ The classroom environment employed will be that of a professional one. While stu
 - Emails to the instructor must be via CUNY email addresses for FERPA reasons.
 - Include the *class name* or *number* in the *subject* line of the email.
 - Email thread *hijacking* is strongly discouraged. The subject of an email must match its contents.
+- Students are responsible for any email the instructors send them.
 
 ## Bulletin Board
 
-Students should check the [Brightspace](http://brightspace.cuny.edu) site regularly and are responsible for any email the instructors send them.
+Students must check the [Brightspace](http://brightspace.cuny.edu) site regularly.
 
 ## Laptop Loans, Computer Science Facilities, &amp; Labs
 
