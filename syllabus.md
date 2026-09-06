@@ -159,7 +159,7 @@ The classroom environment employed will be that of a professional one. While stu
 - Emails to the instructor must be via CUNY email addresses for FERPA reasons.
 - Include the *class name* or *number* in the *subject* line of the email.
 - Email thread *hijacking* is strongly discouraged. The subject of an email must match its contents.
-- Course mail is delivered to whichever address CUNYfirst lists as *preferred*. Students are responsible for reading it there.
+- Course mail is delivered to whichever address CUNYfirst lists as *preferred*; that address should be a **CUNY** one. Students are responsible for reading course mail there.
 
 ## Bulletin Board
 
