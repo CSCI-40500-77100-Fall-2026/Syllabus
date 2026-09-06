@@ -159,7 +159,7 @@ The classroom environment employed will be that of a professional one. While stu
 - Emails to the instructor must be via CUNY email addresses for FERPA reasons.
 - Include the *class name* or *number* in the *subject* line of the email.
 - Email thread *hijacking* is strongly discouraged. The subject of an email must match its contents.
-- Course mail is addressed from the CUNYfirst record. Brightspace sends to a CUNY Login address that cannot be changed, and that address forwards to whichever address is marked *preferred* in CUNYfirst; the GitHub organization invitation is addressed from the same record. Students are responsible for reading course mail wherever it is delivered. The instructor **strongly recommends** setting the CUNYfirst preferred address to the student's Hunter College address, since a preferred address at another college, or one the student does not read, leads to missed course mail and a project repository that cannot be assigned.
+- Course mail reaches students by two paths, both rooted in CUNYfirst. Brightspace sends to a CUNY Login address that cannot be changed, which in turn forwards to whichever address is marked *preferred* in CUNYfirst. The GitHub organization invitation is sent directly to the address on the CUNYfirst roster, with no relay in between. Students are responsible for reading course mail wherever it is delivered. The instructor **strongly recommends** setting the CUNYfirst preferred address to the student's Hunter College address, since a preferred address at another college, or one the student does not read, leads to missed course mail and a project repository that cannot be assigned.
 
 ## Bulletin Board
 
