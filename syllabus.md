@@ -163,7 +163,7 @@ The classroom environment employed will be that of a professional one. While stu
 
 ## Bulletin Board
 
-Students should check the [Brightspace](http://brightspace.cuny.edu) site regularly since all class material will be posted there. Students are responsible for any email the instructors might send there.
+Students should check the [Brightspace](http://brightspace.cuny.edu) site regularly and are responsible for any email the instructors send them.
 
 ## Laptop Loans, Computer Science Facilities, &amp; Labs
 
