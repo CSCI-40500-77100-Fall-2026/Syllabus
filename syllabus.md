@@ -41,7 +41,7 @@ Machine Learning in a Nutshell for Software Engineers | Kastner | 1--3
 Quality Assurance for ML-Enabled Systems | Kastner | 14, 23
 Foundation Models and AI Agents | Huyen | 1--2, 6
 
-Architectural and design models in this course are expressed as *diagrams-as-code* (e.g., [Mermaid] and the [C4 model]) checked into the project repository, rather than as standalone UML documents.
+Architectural and design models in this course are expressed as *diagrams-as-code* (e.g., [Mermaid]) checked into the project repository, rather than as standalone UML documents.
 
 Students are required to read the linked articles if no chapter is specified above. The instructor will distribute any supplementary material. Chapters and pages refer to the required text unless otherwise specified.
 
@@ -207,5 +207,4 @@ Portions of this syllabus are based on the syllabus used for the [CEN 5035 Softw
 [CSCI 33500: Software Analysis and Design III]: https://hunter-undergraduate.catalog.cuny.edu/courses/0245511
 [ferpa]: https://hunter.cuny.edu/students/registration/records-and-transcripts/ferpa
 [Mermaid]: https://mermaid.js.org
-[C4 model]: https://c4model.com
 [Classroom 50]: https://github.com/foundation50/classroom50
