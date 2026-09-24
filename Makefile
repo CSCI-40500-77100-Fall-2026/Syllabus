@@ -8,6 +8,6 @@ html:
 preview-html: html
 	gio open $(HTML).html
 pdf:
-	pandoc -V geometry:margin=1in -f gfm $(MD).md -o $(PDF).pdf
+	pandoc -V geometry:margin=1in -f markdown $(MD).md -o $(PDF).pdf
 preview-pdf: pdf
 	gio open $(PDF).pdf
