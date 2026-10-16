@@ -29,8 +29,11 @@ Agile Software Engineering | Sommerville | 2
 Features, Scenarios, and Stories | Sommerville | 3
 Software Architecture (modeling with diagrams-as-code) | Sommerville | 4
 Cloud-Based Software | Sommerville | 5
+SQL vs. NoSQL Databases | [MongoDB][nosql-vs-sql] | Article
 Microservices Architecture | Sommerville | 6
+Serverless (FaaS) vs. Containers | [Roberts][serverless-roberts]; [Schleier-Smith et al.][serverless-cacm] | Articles
 Security and Privacy | Sommerville | 7
+Web Application Security | [Cairns and Somerfield][web-security-basics]; [OWASP][owasp-top10] | Articles
 Reliable Programming | Sommerville | 8
 Object-Oriented Programming Refresher | | Instructor material
 Design Patterns | GoF | pp. 293--305
@@ -208,3 +211,8 @@ Portions of this syllabus are based on the syllabus used for the [CEN 5035 Softw
 [ferpa]: https://hunter.cuny.edu/students/registration/records-and-transcripts/ferpa
 [Mermaid]: https://mermaid.js.org
 [Classroom 50]: https://github.com/foundation50/classroom50
+[nosql-vs-sql]: https://www.mongodb.com/resources/basics/databases/nosql-explained/nosql-vs-sql
+[serverless-roberts]: https://martinfowler.com/articles/serverless.html
+[serverless-cacm]: https://cacm.acm.org/research/what-serverless-computing-is-and-should-become/
+[web-security-basics]: https://martinfowler.com/articles/web-security-basics.html
+[owasp-top10]: https://owasp.org/Top10/2025/
