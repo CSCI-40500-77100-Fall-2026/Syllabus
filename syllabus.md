@@ -33,7 +33,8 @@ SQL vs. NoSQL Databases | [MongoDB][nosql-vs-sql] | Article
 Microservices Architecture | Sommerville | 6
 Serverless (FaaS) vs. Containers | [Roberts][serverless-roberts]; [Schleier-Smith et al.][serverless-cacm] | Articles
 Security and Privacy | Sommerville | 7
-Web Application Security | [Cairns and Somerfield][web-security-basics]; [OWASP][owasp-top10]; [OWASP GenAI][owasp-llm-top10] | Articles
+Web Application Security | [Cairns and Somerfield][web-security-basics]; [OWASP][owasp-top10] | Articles
+LLM Application Security | [OWASP][owasp-llm-top10] | Article
 Reliable Programming | Sommerville | 8
 Object-Oriented Programming Refresher | | Instructor material
 Design Patterns | GoF | pp. 293--305
