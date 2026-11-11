@@ -37,9 +37,8 @@ Serverless (FaaS) vs. Containers | [Roberts][serverless-roberts]; [Schleier-Smit
 Security and Privacy | Sommerville | 7
 Web Application Security | [Cairns and Somerfield][web-security-basics]; [OWASP][owasp-top10] | Articles
 LLM Application Security | [OWASP][owasp-llm-top10] | Article
-Reliable Programming | Sommerville | 8
+Reliable Programming | Sommerville; GoF | 8; pp. 293--305
 Object-Oriented Programming Refresher | | Instructor material
-Design Patterns | GoF | pp. 293--305
 Testing | Sommerville | 9
 Static Analysis (applied lab) | Google | 20
 DevOps and Code Management | Sommerville | 10
