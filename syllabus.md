@@ -13,6 +13,8 @@ Field | Value
 **Office hours:** | TTh 3:30-4:30 pm
 **Semester:** | Fall 2026
 **Section:** | CSCI 40500/77100-01
+**Grader:** | Ataur Muhith
+**Email:** | [ATAUR.MUHITH66@login.cuny.edu](mailto:ATAUR.MUHITH66@login.cuny.edu)
 
 ## Course Description
 
